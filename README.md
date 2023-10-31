@@ -28,13 +28,19 @@
 ## The Case Study - Morningstar
 </u>
 
-*`This Case Study is presented in a question and answer format.`*
+*`This Case Study is presented in a question and answer format.`*[^1]
 
 - ## Overview and Origin
 
-    * Name of company: Morningstar, Inc. (the "Company"), headquartered in Chicago, IL, and publicly traded with most recent market cap valuation of $8.76 billion (Yahoo! Finance, June 2023).
+    * Name of company:
+    
+        `Morningstar, Inc. (the "Company"), headquartered in Chicago, IL, and publicly traded with most recent market cap valuation of $8.76 billion (Yahoo! Finance, June 2023).`
 
-    * When was the company incorporated?  According to Morningstar's latest SEC annual report, the Company was incorporated in 1984.
+        `This case study focuses on Morningstar, Inc.'s` <u>**`Morningstar Office Cloud`**</u> `product for investment advisers and their clients.`
+
+    * When was the company incorporated?
+    
+        `According to Morningstar's latest SEC annual report, the Company was incorporated in 1984.`
 
     * Who are the founders of the company?  The Company's founder is Joe Mansueto, who has served as Chairman of the board since inception, and as CEO from 1984 to 1996 and from 2000 to 2016 (SEC Annual Report, February 2023).
 
@@ -87,6 +93,8 @@
 
 - ## References
 
+    [^1]: A numbered footnote convention will generally not be used in this case study: references will instead be identified using MLA Source and Date citation convention, and listed [here](#references).  However, this numbered footnote instance illustrates how footnotes may be implemented in Markdown. Note that this footnote reference would not render properly, if at all, in VS Code prior to identification and installation of the VS Code extension developed by Matt Bierner, see Extension ID `bierner.markdown-footnotes`.
+
     * G2.com, "Top 10 Morningstar Office Alternatives & Competitors," https://www.g2.com/products/morningstar-office/competitors/alternatives.
 
     * Gitnux.com, "Morningstar: Business Model, SWOT Analysis & Competitors 2023," April 10, 2023, https://blog.gitnux.com/companies/morningstar.
@@ -102,35 +110,36 @@
     * Yahoo! Finance, June 15, 2023, https://finance.yahoo.com/quote/MORN?p=MORN.
 
 ## Technologies Used
-- Developed README Markdown file within VS Code IDE.
-- According to Wikipedia, *"Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber created Markdown in 2004 as a markup language that is easy to read in its source code form. Markdown is widely used for blogging and instant messaging, and also used elsewhere in online forums, collaborative software, documentation pages, and readme files" ([Wikipedia](https://en.wikipedia.org/wiki/Markdown#cite_note-philosophy-9)).*
+- README Markdown file for Case Study developed within VS Code IDE.
+
+    > According to Wikipedia, 
+    >>*"Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber created Markdown in 2004 as a markup language that is easy to read in its source code form. Markdown is widely used for blogging and instant messaging, and also used elsewhere in online forums, collaborative software, documentation pages, and readme files" ([Wikipedia](https://en.wikipedia.org/wiki/Markdown#cite_note-philosophy-9)).*
 
 ## Setup
 - GitHub Repository
-    - name: 'neural-networks-challenge'
+    - name: 'intro-to-fintech-challenge'
     - location: uploaded to Bootcamp homework submission online portal and available publicly at:
-        - [GitHub Repository](https://github.com/boz-tcm/neural-networks-challenge.git)
-- Python Standard Library (Version 3.10.7)
-- Jupyter Notebook(s):
-    - name: 'venture_funding_with_deep_learning.ipynb'
-    - location: 'neural-networks-challenge/'
-- Data including dataset source file 'applicants_data.csv' and saved .h5 and .keras models:
-    - location: 'neural-networks-challenge/Resources/'
-- Images
-    - n/a
+        - [GitHub Repository](https://github.com/boz-tcm/intro-to-fintech-challenge.git)
+- Case Study README.md file
+    - name: 'README.md'
+    - location: [Case Study](https://github.com/boz-tcm/intro-to-fintech-challenge/blob/master/README.md) 
 
 ## Project Status
 Project is: _complete
 
 ## Room for Improvement
-Room for improvement: _
+Room for improvement: 
+- Investigate an hierarchical table of contents structure for the Case Study section itself.
 
-To do: _
+To do:
+- None
 
 ## Acknowledgements
+[Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) was quite a useful resource, particularly as idea generator, explorer, and reference companion.
 
 ## Contact
 Created by Todd C. Meier, tmeier@bozcompany.com - feel free to contact me!
 
 <!-- ## License --> All rights reserved.
 ---
+## Footnotes
