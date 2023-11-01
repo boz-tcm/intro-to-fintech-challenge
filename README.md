@@ -72,7 +72,19 @@
     
         `According to personal firsthand conversations with Morningstar's Customer Success Manager (CSM), Anthony Odro, the Company primarily relies on Amazon's AWS cloud services to deliver its investment data and solutions to clients.`
 
-        `Additional detailed tech specifications for both Morningstar Office Cloud and legacy Morningstar Office` *`Desktop`* `product versions is` [attached for reference](Resources/Sources/MorningstarOfficeTechSpec.pdf)`.`
+        `The Company deploys and maintains its Morningstar Office product through both the Cloud, via an internet web application, and a legacy version through a local Desktop C++ distributed application.  Both product types provide a suite of functionality for investment adviser users, including Clients & Accounts management, CRM database management delivered through Redtail CRM, a third-party vendor, Firm-level and individual Client reporting, Client Billing, including batch scheduling, and Research tools, including Morningstar analyst research covering individual company securities, mutual and exchange-traded funds, and annuities.`
+        
+        `A separate website also provides a client-facing web portal, delivered synchronously from the same underlying database sources serving investment advisers through their Cloud and Desktop applications.  The client-facing web portal provides clients with historical household balance information by account custodian, through either a direct data feed with custodians or through Morningstar's third-party data aggregation service, ByAllAccounts (BAA).  Morningstar's Back-Office Services (BOS) reconciles these data feeds and client account balances and positions daily prior to the U.S. market open.  In addition to reporting on account balances and securities holdings information, the client web portal supports secure document storage and sharing between investment advisers and their clients.`
+
+        `Morningstar also maintains a sophisticated asset allocation rebalancing and tax management website application for investment advisers, Morningstar tRx, or Total Rebalance Expert, initially developed and commercialized by a third-party startup now wholly-owned by Morningstar (Neal, 2015).`
+
+       - `Total Rebalance Expert Infographics:`
+
+            ![A screenshot depicts tRx infographic number 1.](Resources/Images/Graphic_tRx_1n.png)
+
+            ![A screenshot depicts tRx infographic number 1.](Resources/Images/Graphic_tRx_2n.png)
+
+        `Additional detailed tech specifications for both Morningstar Office Cloud and legacy Morningstar Office` *`Desktop`* `product versions is available` [here](https://github.com/boz-tcm/intro-to-fintech-challenge/blob/master/Resources/Sources/MorningstarOfficeTechSpec.pdf)`.`
 
 - ## Landscape
 
@@ -140,11 +152,15 @@
 
     * Iskowitz, Craig, "50 Portfolio Management Software Solutions For Advisors Can’t All Survive," July 23, 2020, https://www.kitces.com/blog/portfolio-management-trading-rebalancing-software-review-fintech-competition-addressable-market-size.
 
+    * Morningstar Office Cloud and Desktop technical specifications, https://github.com/boz-tcm/intro-to-fintech-challenge/blob/master/Resources/Sources/MorningstarOfficeTechSpec.pdf.
+
     * Morningstar SEC Annual Report on Form 10-K for the period ending December 31, 2022, as of February 24, 2023, https://www.sec.gov/ix?doc=/Archives/edgar/data/1289419/000128941923000005/morn-20221231.htm.
 
-    * Smith, Andy, "Who Are Morningstar's (MORN) Main Competitors," August 23, 2022, https://www.investopedia.com/ask/answers/051915/who-are-morningstars-morn-main-competitors.asp
+    * Neal, Ryan, "Morningstar Purchases tRx Portfolio Rebalancing Platform," October 9, 2015, https://www.wealthmanagement.com/technology/morningstar-purchases-trx-portfolio-rebalancing-platform.
 
-    * Wikipedia reference for Markdown, https://en.wikipedia.org/wiki/Markdown#cite_note-philosophy-9
+    * Smith, Andy, "Who Are Morningstar's (MORN) Main Competitors," August 23, 2022, https://www.investopedia.com/ask/answers/051915/who-are-morningstars-morn-main-competitors.asp.
+
+    * Wikipedia reference for Markdown, https://en.wikipedia.org/wiki/Markdown#cite_note-philosophy-9.
 
     * Yahoo! Finance, June 15, 2023, https://finance.yahoo.com/quote/MORN?p=MORN.
 
