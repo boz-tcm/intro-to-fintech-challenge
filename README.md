@@ -1,6 +1,10 @@
+<img src="Resources/Images/manasvita-s-9q5vptiE2TY-unsplash-smaller.png" align="right" alt='Reference: Singers, Mattias'/>
+
 # `Columbia Engineering FinTech Bootcamp 2023-06 Cohort`
 
-> Project: Module 01 Intro-to-FinTech-Challenge 
+## `Project: Module 01 Intro-to-FinTech-Challenge`
+
+## Case Study: Morningstar Office README 
 
 ## Background
 > As a fintech professional, it’s critical for us to understand how fintech companies start, evolve, and grow, to be able to speak knowledgeably about the major players in the industry, and to stay up-to-date on advances in the rapidly evolving fintech field.
@@ -27,6 +31,9 @@
 <u>
 ## The Case Study - Morningstar
 </u>
+
+![A screenshot depicts the Morningstar Office Cloud product logo.](Resources/Images/Graphic_Morn_OfficeCloud_Logo.png)
+
 
 *`This Case Study is presented in a question and answer format.`*[^1]
 
@@ -70,15 +77,26 @@
 
     * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
     
-        `According to personal firsthand conversations with Morningstar's Customer Success Manager (CSM), Anthony Odro, the Company primarily relies on Amazon's AWS cloud services to deliver its investment data and solutions to clients.`
+        `According to personal firsthand conversations with Morningstar's Customer Success Manager (CSM), Anthony Odro, the Company primarily relies on Amazon's AWS cloud services to deliver its proprietary investment ratings data, solutions, and services to clients.`
 
         `The Company deploys and maintains its Morningstar Office product through both the Cloud, via an internet web application, and a legacy version through a local Desktop C++ distributed application.  Both product types provide a suite of functionality for investment adviser users, including Clients & Accounts management, CRM database management delivered through Redtail CRM, a third-party vendor, Firm-level and individual Client reporting, Client Billing, including batch scheduling, and Research tools, including Morningstar analyst research covering individual company securities, mutual and exchange-traded funds, and annuities.`
+
+        - `Morningstar Office Cloud: Investment Adviser Practice Home Page and Tools Preview:`
+            
+            ![A screenshot depicts the Morningstar Office practice home page and tools for investment advisers.](Resources/Images/Graphic_Morn_OfficeCloud_HomePage.png)
         
         `A separate website also provides a client-facing web portal, delivered synchronously from the same underlying database sources serving investment advisers through their Cloud and Desktop applications.  The client-facing web portal provides clients with historical household balance information by account custodian, through either a direct data feed with custodians or through Morningstar's third-party data aggregation service, ByAllAccounts (BAA).  Morningstar's Back-Office Services (BOS) reconciles these data feeds and client account balances and positions daily prior to the U.S. market open.  In addition to reporting on account balances and securities holdings information, the client web portal supports secure document storage and sharing between investment advisers and their clients.`
 
-        `Morningstar also maintains a sophisticated asset allocation rebalancing and tax management website application for investment advisers, Morningstar tRx, or Total Rebalance Expert, initially developed and commercialized by a third-party startup now wholly-owned by Morningstar (Neal, 2015).`
+        - `Client Web Portal: Overview and Investment Page Previews:`
 
-       - `Total Rebalance Expert Infographics:`
+            ![A screenshot depicts client web portal overview page.](Resources/Images/Graphic_Morn_ClientPortal_Overview.png)
+
+            ![A screenshot depicts client web portal investments page.](Resources/Images/Graphic_Morn_ClientPortal_Investments.png)
+
+
+        `Morningstar also maintains a sophisticated asset allocation rebalancing and tax management website application for investment advisers, called Morningstar tRx, or Total Rebalance Expert, which was initially developed and commercialized by a third-party startup that is now wholly-owned by Morningstar (Neal, 2015).`
+
+       - `Total Rebalance Expert: Infographics:`
 
             ![A screenshot depicts tRx infographic number 1.](Resources/Images/Graphic_tRx_1n.png)
 
@@ -157,6 +175,8 @@
     * Morningstar SEC Annual Report on Form 10-K for the period ending December 31, 2022, as of February 24, 2023, https://www.sec.gov/ix?doc=/Archives/edgar/data/1289419/000128941923000005/morn-20221231.htm.
 
     * Neal, Ryan, "Morningstar Purchases tRx Portfolio Rebalancing Platform," October 9, 2015, https://www.wealthmanagement.com/technology/morningstar-purchases-trx-portfolio-rebalancing-platform.
+
+    * Singers, Mattias, "awesome-readme" demonstrated use of html `<img src>` tag within README, https://github.com/matiassingers/awesome-readme.
 
     * Smith, Andy, "Who Are Morningstar's (MORN) Main Competitors," August 23, 2022, https://www.investopedia.com/ask/answers/051915/who-are-morningstars-morn-main-competitors.asp.
 
