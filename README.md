@@ -29,7 +29,7 @@
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <u>
-## The Case Study - Morningstar
+## The Case Study - Morningstar Office
 </u>
 
 ![A screenshot depicts the Morningstar Office Cloud product logo.](Resources/Images/Graphic_Morn_OfficeCloud_Logo.png)
@@ -73,11 +73,14 @@
 
     * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
     
-        `Pursuant to its original mission in 1984, the Company has amassed proprietary ratings information and analysis covering a large proportion of the mutual fund industry.  The Company has since expanded this mission to include ratings and data analysis for publicly traded businesses.  Morningstar's mission is to deliver this information to  clients, including corporate and individual investors, and financial advisors, through various captive channels such as Morningstar Direct, Morningstar Advisor Workstation, and Morningstar Office (SEC Annual Report, February 2023).` 
+        `Pursuant to its original mission in 1984, Morningstar has amassed proprietary ratings information and analysis covering a large proportion of the mutual fund industry.  The Company has since expanded this mission to include ratings and data analysis for publicly traded businesses.  Morningstar's mission is to deliver this information to  clients, including corporate and individual investors, and financial advisors, through various captive channels such as Morningstar Direct, Morningstar Advisor Workstation, and Morningstar Office (SEC Annual Report, February 2023).` 
 
     * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
     
         `According to personal firsthand conversations with Morningstar's Customer Success Manager (CSM), Anthony Odro, the Company primarily relies on Amazon's AWS cloud services to deliver its proprietary investment ratings data, solutions, and services to clients.`
+
+        `In addition to Amazon AWS, StackShare shows that Morningstar uses the following technologies, among others:
+        'jQuery, php, Java, Apache, Ruby, for web development and deployment; CloudFlare for cloud security and delivery efficiency; Google Analytics for analyzing web traffic to Morningstar online properties; and New Relic for internal server performance and load monitoring.  The full list of technologies documented by StackShare is available [here]().`
 
         `The Company deploys and maintains its Morningstar Office product through both the Cloud, via an internet web application, and a legacy version through a local Desktop C++ distributed application.  Both product types provide a suite of functionality for investment adviser users, including Clients & Accounts management, CRM database management delivered through Redtail CRM, a third-party vendor, Firm-level and individual Client reporting, Client Billing, including batch scheduling, and Research tools, including Morningstar analyst research covering individual company securities, mutual and exchange-traded funds, and annuities.`
 
