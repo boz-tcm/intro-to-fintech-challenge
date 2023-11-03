@@ -79,8 +79,17 @@
     
         `According to personal firsthand conversations with Morningstar's Customer Success Manager (CSM), Anthony Odro, the Company primarily relies on Amazon's AWS cloud services to deliver its proprietary investment ratings data, solutions, and services to clients.`
 
-        `In addition to Amazon AWS, StackShare shows that Morningstar uses the following technologies, among others:
-        'jQuery, php, Java, Apache, Ruby, for web development and deployment; CloudFlare for cloud security and delivery efficiency; Google Analytics for analyzing web traffic to Morningstar online properties; and New Relic for internal server performance and load monitoring.  The full list of technologies documented by StackShare is available [here]().`
+        `In addition to Amazon AWS, StackShare shows that Morningstar uses the following technologies, among others:`
+            
+        - `jQuery, php, Java, Apache, Ruby, for web development and deployment;`
+            
+        - `CloudFlare for cloud security and delivery efficiency;`
+            
+        - `Google Analytics for analyzing web traffic to Morningstar online properties;`
+            
+        - `and New Relic for internal server performance and load monitoring.`
+            
+        - `The full list of Morningstar technologies documented by StackShare is available` [here](https://github.com/boz-tcm/intro-to-fintech-challenge/blob/master/Resources/Sources/MorningstarOfficeStackShare.pdf).
 
         `The Company deploys and maintains its Morningstar Office product through both the Cloud, via an internet web application, and a legacy version through a local Desktop C++ distributed application.  Both product types provide a suite of functionality for investment adviser users, including Clients & Accounts management, CRM database management delivered through Redtail CRM, a third-party vendor, Firm-level and individual Client reporting, Client Billing, including batch scheduling, and Research tools, including Morningstar analyst research covering individual company securities, mutual and exchange-traded funds, and annuities.`
 
@@ -182,6 +191,8 @@
     * Singers, Mattias, "awesome-readme" demonstrated use of html `<img src>` tag within README, https://github.com/matiassingers/awesome-readme.
 
     * Smith, Andy, "Who Are Morningstar's (MORN) Main Competitors," August 23, 2022, https://www.investopedia.com/ask/answers/051915/who-are-morningstars-morn-main-competitors.asp.
+
+    * StackShare, https://stackshare.io/morningstar/morningstar.
 
     * Wikipedia reference for Markdown, https://en.wikipedia.org/wiki/Markdown#cite_note-philosophy-9.
 
