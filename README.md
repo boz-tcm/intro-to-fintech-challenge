@@ -80,7 +80,7 @@
 
     * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
     
-        `According to personal firsthand conversations with Morningstar's Customer Success Manager (CSM), Anthony Odro, the Company primarily relies on Amazon's AWS cloud services to deliver its proprietary investment ratings data, solutions, and services to clients.`
+        `Based on personal firsthand conversations with Morningstar's Customer Success Manager (CSM), Anthony Odro, the Company primarily relies on Amazon's AWS cloud services to deliver its proprietary investment ratings data, solutions, and services to clients.`
 
         `In addition to Amazon AWS, StackShare shows that Morningstar uses the following technologies, among others:`
             
@@ -127,6 +127,15 @@
 
     * What have been the major trends and innovations of this domain over the last 5-10 years?
 
+        `Valuefy identifies the following areas where technology has impacted the Wealth Management domain over the last decade:
+        
+        1. `As baby boomers retire, providers, end-users, and clients, are increasingly younger and more tech-savvy, demanding greater adoption of technology-based wealth management services and solutions.`
+        2. `Wealth management businesses have increasingly turned to big data, the recording, storing, and managing of industry and client data.`
+        3. `Artificial intelligence, or AI, has been adopted to drive investment, wealth management, and behavioral analysis, strategy, and predictions.`
+        4. `Once the domain of back-offices, AI is increasingly being implemented in the front office where wealth managers engage directly with clients and the public.`
+        5. `With increasing collection and use of big data, privacy, regulatory, and cybersecurity risks and policies have become greater concerns for companies, regulators, and the public writ large.`
+        6. `Although technological growth within the Wealth and Investment Management domains over the last decade has been remarkable, certain areas, such as Robo Advising, which has experienced fits and starts over the last decade, remind us there is no replacement for humans in the client-advisor relationship, and that according to Valuefy "humans remain at the core of the wealth management industry" (Valuefy, 2020).`
+
     * What are the other major companies in this domain?
     
         `Other major companies offering similar services as Morningstar in the Wealth Management and Investment Management domains include:`
@@ -142,6 +151,8 @@
         `5. Orion`
 
         `(Sources: G2.com; Kitces.com)`
+
+        `We also believe that Value Line, provider of equity analyst research, ratings, and proprietary data, is a competitor to Morningstar and its Office product within the Wealth and Investment Management domains.  This is further corroborated by noting that Value Line declines to provide analyst coverage or ratings for Morningstar, Inc. and its publicly traded common stock.`
 
 - ## Results
 
@@ -198,6 +209,8 @@
     * Smith, Andy, "Who Are Morningstar's (MORN) Main Competitors," August 23, 2022, https://www.investopedia.com/ask/answers/051915/who-are-morningstars-morn-main-competitors.asp.
 
     * StackShare, https://stackshare.io/morningstar/morningstar.
+
+    * Valuefy, "Impact of Technology on Wealth Management over the Last Decade," February 5, 2020, https://valuefy.com/impact-of-technology-on-wealth-management-over-the-last-decade.
 
     * Wikipedia reference for Markdown, https://en.wikipedia.org/wiki/Markdown#cite_note-philosophy-9.
 
