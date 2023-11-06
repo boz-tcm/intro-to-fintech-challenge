@@ -158,7 +158,7 @@
 
     * What has been the business impact of this company so far?
     
-        ``
+        `Over the past 15 years, Morningstar, Inc. has grown at a compounded annualized total rate of 14.7%, as measured by annual stock price return plus reinvested dividends (Morningstar Office report, November, 2023)`
 
     * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -195,6 +195,8 @@
     * Gitnux.com, "Morningstar: Business Model, SWOT Analysis & Competitors 2023," April 10, 2023, https://blog.gitnux.com/companies/morningstar.
 
     * Iskowitz, Craig, "50 Portfolio Management Software Solutions For Advisors Can’t All Survive," July 23, 2020, https://www.kitces.com/blog/portfolio-management-trading-rebalancing-software-review-fintech-competition-addressable-market-size.
+
+    * Morningstar Office Cloud, Morningstar Report, November 3, 2023, 
 
     * Morningstar Office Cloud and Desktop technical specifications, https://github.com/boz-tcm/intro-to-fintech-challenge/blob/master/Resources/Sources/MorningstarOfficeTechSpec.pdf.
 
