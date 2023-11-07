@@ -34,7 +34,6 @@
 
 ![A screenshot depicts the Morningstar Office Cloud product logo.](Resources/Images/Graphic_Morn_OfficeCloud_Logo.png)
 
-
 *`This Case Study is presented in a question and answer format.`*[^1]
 
 - ## Overview and Origin
@@ -53,8 +52,8 @@
     
         `The Company's founder is Joe Mansueto, who has served as Chairman of the board since inception, and as CEO from 1984 to 1996 and from 2000 to 2016 (SEC Annual Report, February 2023).  The Morningstar name was inspired by the last line of Henry David Thoreau's novel 'Walden', which the founder Joe Mansueto read in college:`
         > `"The sun is but a morning star." - Henry David Thoreau (`*`Walden`*`, 1854)`
-
-        `(Morningstar Website - Our History.)`
+        >
+        >>`(Morningstar Website - Our History.)`
 
     * How did the idea for the company (or project) come about?
     
@@ -138,7 +137,7 @@
 
     * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-        `Valuefy identifies the following areas where technology has impacted the Wealth Management domain over the last decade:
+        `Valuefy identifies the following areas where technology has impacted the Wealth Management domain over the last decade:`
         
         1. `As baby boomers retire, providers, end-users, and clients, are increasingly younger and more tech-savvy, demanding greater adoption of technology-based wealth management services and solutions.`
         2. `Wealth management businesses have increasingly turned to big data, the recording, storing, and managing of industry and client data.`
@@ -201,32 +200,38 @@
 
         `We believe the decline in margins may be tied to the Company over the last several years straying from its core competencies, including:`
         
-        1. `Its material acquisitions of Pitchbook in 2016, followed by DBRS in 2019, which subsequently drew regulatory scrutiny and resulted in two cases settled with regulators tied to DBRS ratings practices, involving insufficient disclosures and transparency, and recordkeeping violations (Bautista, 2023), and Sustainalytics in 2020, which has since found itself mired in controversy, related to accusations of anti-Israel bias, greenwashing, and ratings actions driven by a social agenda (Goldberg, 2023; Rod, 2023), threatening not only the reputation of the Company itself, but also that of its customers;`
+        1. `Its material acquisitions of Pitchbook in 2016, followed by DBRS in 2019, which subsequently drew regulatory scrutiny and resulted in two cases settled with regulators tied to DBRS ratings practices, involving insufficient disclosures and transparency, and recordkeeping violations (Bautista, 2023), and Sustainalytics in 2020, which has since found itself mired in controversy, related to accusations of anti-Israel bias, promotion of greenwashing, and ratings actions driven by a social agenda (Goldberg, 2023; Rod, 2023), threatening not only the reputation of the Company itself, but also that of its customers;`
         2. `The accumulation of excesses across the Company writ large, reflecting reduced spending discipline and higher levels of cash and non-cash, or stock-based, employee compensation, and travel and entertainment expenditures, relative to income (Morningstar Q&A, 2022).`
 
 - ## Recommendations
 
     * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
     
-        `I would recommend to the Company that they continue to build out and reinvest in their Investment and Wealth Management platforms to bring more features and services to their delivery platforms, including through their Morningstar Direct, Advisor Workstation, and Morningstar Office Cloud platforms.  For example, the Company's Advisor Workstation and Office Cloud platforms could be greatly improved`
+        `Since the Company's core customer for its Morningstar Office product is investment advisers, specifically registered investment advisers acting as fiduciaries, and their clients, we would advise the Company to develop a financial planning module within the Office product suite that is competitive with offerings provided by other companies in the Wealth Management domain.`
 
     * Why do you think that offering this product or service would benefit the company?
-
-        ``
+ 
+        `A bona fide financial planning module would naturally bolt onto the Company's Office product, which is already captive to investment advisers and their clients.  Marginal investment in this feature would likely be met with high adoption rates by investment advisers, who would likely switch from the primary companies in the domain, Fidelity's eMoney and Envestnet's MoneyGuidePro, and consolidate their wealth management technology platforms, budget, and resources with a single provider.`
 
     * What technologies would this additional product or service utilize?
 
-        ``
+        `Financial planning relies heavily on customized advice and input from clients.  Morningstar already provides a robust third-party, or held-away, data aggregator through its ByAllAccounts (BAA) unit, and data reconciliation and maintenance through its Back-Office Services (BOS).  A financial planning module would naturally leverage Morningstar's preexisting technology.`
+        
+        `Features and technology within a financial planning module that Morningstar should develop to be competitive with primary offerings in the Wealth Management domain include Monte Carlo simulation of income, budget, expenses, investment, and mortality scenarios, among others, and could incorporate machine learning and predictive analytics that would be commercially unrivaled in the domain.  In contrast, competitors' current offerings provide Monte Carlo simulation of investment portfolio returns only, a naive and not particularly sophisticated or powerful approach to wealth management.  Cynical advisers might claim that current financial planning offerings in the domain are primarily designed for marketing purposes, prospecting and client lead generation, rather than for providing robust, practical, and valuable financial planning advice sought by clients.`
 
     * Why are these technologies appropriate for your solution?
 
-        ``
+        `With $24.0 trillion residing in U.S. defined contribution and IRA retirement assets, and U.S. citizens now assuming more and more retirement risk via these plans, as companies and governments in recent decades have shifted from offering defined benefit retirement pension plans (currently $16.8 trillion), where ` *`employers`* ` have traditionally assumed the investment risk, retirees are in greater need of sophisticated and robust solutions to manage their retirement savings (Congressional Research Service, 2022).`
+        
+       `With many retirees now assuming such large retirement risks themselves, the public would benefit from customized financial planning tools and advice, including not only traditional and relatively naive technology, such as income, expense, budget, asset and liability modeling, coupled with Monte Carlo simulation, but also nascent technology that holds out the promise of more effective planning and risk management.  While many are apprehensive about emerging artificial intelligence (AI), the public can look forward to sophisticated financial planning tools that incorporate powerful predictive analytics and machine learning features that help them manage both traditional market risks and non-traditional behavioral risks.  Morningstar has a large opportunity set and addressable market, and occupies an ideal position to be part of this solution, through both its Wealth division and Office product.`
 
 - ## References
 
     [^1]: A numbered footnote convention will generally not be used in this case study: references will instead be identified using MLA Source and Date citation convention, and listed [here](#references).  However, this numbered footnote instance illustrates how footnotes may be implemented in Markdown. Note that this footnote reference would not render properly, if at all, in VS Code prior to identification and installation of the VS Code extension developed by Matt Bierner, see VS Code Extension ID [bierner.markdown-footnotes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-footnotes).
 
     * Bautista, Christian, "Morningstar agrees to $8M settlement over CMBS ratings," October 25, 2023, *The Real Deal*, https://therealdeal.com/chicago/2023/10/25/morningstar-agrees-to-8m-settlement-over-cmbs-ratings.
+    
+    * Congressional Research Service, "U.S. Retirement Assets: Amount in Pensions and IRAs," May 23, 2022, https://crsreports.congress.gov/product/pdf/IF/IF12117/2.
     
     * G2.com, "Top 10 Morningstar Office Alternatives & Competitors," https://www.g2.com/products/morningstar-office/competitors/alternatives.
 
