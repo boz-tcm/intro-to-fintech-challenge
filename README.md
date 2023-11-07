@@ -21,13 +21,14 @@
 ## Table of Contents
 * [Background](#background)
 * [Purpose](#purpose)
-* [The Case Study - Morningstar](#the-case-study---morningstar)    
+* [The Case Study - Morningstar](#the-case-study---morningstar-office)    
 * [Technologies Used in this Project](#technologies-used)
 * [Setup Documentation for this Project](#setup)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
+* [Footnotes](#footnotes)
 <u>
 ## The Case Study - Morningstar Office
 </u>
